@@ -1,0 +1,10 @@
+E:\My Project\GitDemoVhaash\GitDemoVhaash\bin\Debug\GitDemoVhaash.exe.config
+E:\My Project\GitDemoVhaash\GitDemoVhaash\bin\Debug\GitDemoVhaash.exe
+E:\My Project\GitDemoVhaash\GitDemoVhaash\bin\Debug\GitDemoVhaash.pdb
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.csproj.AssemblyReference.cache
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.csproj.SuggestedBindingRedirects.cache
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.Properties.Resources.resources
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.csproj.GenerateResource.cache
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.csproj.CoreCompileInputs.cache
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.exe
+E:\My Project\GitDemoVhaash\GitDemoVhaash\obj\Debug\GitDemoVhaash.pdb
